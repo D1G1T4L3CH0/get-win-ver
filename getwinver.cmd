@@ -1,6 +1,6 @@
 @echo off
 :: Get-Win-Ver
-:: Just a simple scrip[t to determine the windows version. You can call this from your own scripts. It sets two variables, win_v and win_v_name. win-v is the version number #.#, the rest is removed for simplicity and it's not needed anyway. win_v_name is the name of the operating system in a string. Feel free to modify this any way you like or just copy/paste it to your own script. Your welcome. :)
+:: Just a simple script to determine the windows version. You can call this from your own scripts. It sets two variables, win_v and win_v_name. win-v is the version number #.#, the rest is removed for simplicity and it's not needed anyway. win_v_name is the name of the operating system in a string. Feel free to modify this any way you like or just copy/paste it to your own script. Your welcome. :)
 :: If you need a more specific answer, you might decide to modify this to not remove the build number. I guess it's possible it could help determine exact version.
 
 :: Information below from: http://msdn.microsoft.com/en-us/library/windows/desktop/ms724832%28v=vs.85%29.aspx
