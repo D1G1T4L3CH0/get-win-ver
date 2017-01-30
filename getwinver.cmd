@@ -33,7 +33,7 @@ if %win_v% EQU 5.2 set win_v_name=Windows Server 2003 / Server 2003 R2 / XP 64-B
 if %win_v% EQU 6.0 set win_v_name=Windows Vista / Server 2008
 if %win_v% EQU 6.1 set win_v_name=Windows 7 / Server 2008 R2
 if %win_v% EQU 6.2 set win_v_name=Windows 8 / Server 2012
-if %win_v% EQU 6.2 set win_v_name=Windows 8.1 / Server 2012 R2
+if %win_v% EQU 6.3 set win_v_name=Windows 8.1 / Server 2012 R2
 if %win_v% EQU 10.0 set win_v_name=Windows 10 / Windows Server 2016
 
 :: If you would like the build number in the same variable as the regular version, just uncomment the following line. Or you could modify the above.
